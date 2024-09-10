@@ -10,3 +10,7 @@
 
 # MOdificandos directorios
     - se modificara los directorios de los clientes cuando se detecte cambios en sus informaciones personales 
+
+# Agregando amigos Jesus
+    - maria
+    - Jhon
