@@ -7,3 +7,6 @@
 
 # Insertando nuevos directorios
     - se insertara nuevos directorios de los clientes al realziar sus primeras compras 
+
+# MOdificandos directorios
+    - se modificara los directorios de los clientes cuando se detecte cambios en sus informaciones personales 
